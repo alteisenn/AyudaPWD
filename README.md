@@ -1,7 +1,7 @@
 # AyudaPWD
 - En caso de que no le entendieran a Perconti aca les dejo una ayuda (Tengo entendido que el script solo les va ser util si utilizaban PhpMyAdmin)
 
-# Cargar pagina al servidor
+
 
 1. `Con Filezilla nos conectamos al servidor con los datos que nos envio Perconti`
 

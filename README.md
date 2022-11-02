@@ -17,8 +17,10 @@
 
   ![Step4](https://imgur.com/YM1tkMk.png)
  
-5. `Dependiendo de su numero de grupo se dirigen a "http://gx.pwd.tecnica4berazategui.edu.ar/exp_bd.php" hecho esto si se dirigen al directorio normal la base de datos deberia funcionarles`
+5. `Dependiendo de su numero de grupo se dirigen a "http://gx.pwd.tecnica4berazategui.edu.ar/exp_bd.php"` 
 
+6. `Hecho esto si despues van al directorio normal la base de datos deberia funcionarles`
 
+![Step5](https://imgur.com/CTURpS3.png)
 
 Cualquier cosa me preguntan.

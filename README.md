@@ -11,10 +11,14 @@
   ![Step2](https://imgur.com/VuGzm9y.png)
   
 3. `Deberian tener un archivo de conexion dentro de su aplicacion y rellenarlo con los datos correspondientes (El Username y password son los mismos que usaron para ingresar en filezilla)`
-  ![Step3](https://imgur.com/H406Nqp.png)
+  ![Step3](https://imgur.com/t80hYZJ.png)
   
 4. `Pegan el script que paso Perconti en la raiz de su aplicacion vinculando los correspondientes archivos `
 
   ![Step4](https://imgur.com/YM1tkMk.png)
  
 5. `Dependiendo de su numero de grupo se dirigen a "http://gx.pwd.tecnica4berazategui.edu.ar/exp_bd.php" hecho esto si se dirigen al directorio normal la base de datos deberia funcionarles`
+
+
+
+Cualquier cosa me preguntan.
